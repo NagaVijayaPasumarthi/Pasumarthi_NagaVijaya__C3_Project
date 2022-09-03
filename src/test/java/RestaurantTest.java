@@ -74,3 +74,4 @@ class RestaurantTest {
         assertEquals(388, totalOrderCost);
     }
 //<<<<<<<<<<<<<<<<<<<<<<<View Total Order Cost>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+}
